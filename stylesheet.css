@@ -1,12 +1,11 @@
-* {
-	font-family :sans-serif;
-}
+
 .title {
     color: #02ccba;
-
+}
     * {
 	-webkit-box-sizing: border-box;
 	        box-sizing: border-box;
+	    font-family :sans-serif;
 }
 	/*検索キーワード*/
 .Kensaku {
@@ -14,6 +13,7 @@
 	text-align:right;
 	font-size :30px;
 	margin: 20px 40px;
+}
 	
 	
 a,
