@@ -1,3 +1,6 @@
+* {
+	font-family :sans-serif;
+
 .title {
     color: #02ccba;
 
@@ -5,6 +8,11 @@
 	-webkit-box-sizing: border-box;
 	        box-sizing: border-box;
 }
+	/*検索キーワード*/
+.kensaku {
+	float: right;
+	font-size :30px;
+	
 a,
 a:visited,
 a:hover,
