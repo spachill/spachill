@@ -35,13 +35,13 @@ witdh :100% ;
 
 .header-list li {
   float: left;
-  padding:30px 5px;
+  padding:10px 5px;
 }
 
 /*HeartLight画像*/
 	.heartlightgazou {
   width :100% ;
-  margin : 0px auto ;
+  margin : 0 auto ;
   height : 100px ;
 	}
 		
