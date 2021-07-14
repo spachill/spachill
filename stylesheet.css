@@ -18,12 +18,13 @@ li {
 .header-logo {
   font-size:100px;
   padding:20px 32px;
+color :white ;
+background-color: #191970;
   float:left;
 }
+
 .header {
   font-family : system-ul ; 
- color :white ;
-background-color: #191970;
   width:100%;
   float:left;
 }
