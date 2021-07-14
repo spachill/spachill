@@ -36,6 +36,7 @@ witdh :100% ;
 .header-list li {
   float: left;
   padding:10px 5px;
+  width : 300px ;
 }
 
 /*HeartLight画像*/
