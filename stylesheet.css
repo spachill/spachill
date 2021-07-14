@@ -30,7 +30,8 @@ background-color: #191970;
 
 .header {
   font-family : system-ul ; 
-  width:100%;
+  width:200px;
+  height : 100px ;
   float:left;
 }
 
