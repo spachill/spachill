@@ -19,13 +19,11 @@ li {
   font-size:100px;
   padding:20px 32px;
   float:left;
+}
+.header {
   font-family : system-ul ; 
  color :white ;
 background-color: #191970;
-}
-.header {
-  background-color:#26d0c9 ;
-  color:white;
   width:100%;
   float:left;
 }
