@@ -23,26 +23,25 @@ witdh :100% ;
 .header-logo {
   font-size:30px;
   padding:20px 32px;
-color :white ;
-background-color: #191970;
   float:left;
 }
 
 .header {
   font-family : system-ul ; 
   float:left;
+　color :white ;
+　background-color: #191970;
 }
 
 .header-list li {
   float: left;
-  padding:30px 30px;
+  padding:30px 5px;
 }
 
 /*HeartLight画像*/
 	.heartlightgazou {
   width :100% ;
-  margin : 50px 100px ;
-  width:200px;
+  margin : 0px auto ;
   height : 100px ;
 	}
 		
