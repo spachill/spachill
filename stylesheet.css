@@ -30,8 +30,6 @@ background-color: #191970;
 
 .header {
   font-family : system-ul ; 
-  width:200px;
-  height : 100px ;
   float:left;
 }
 
@@ -42,7 +40,9 @@ background-color: #191970;
 
 /*HeartLight画像*/
 	.heartlightgazou {
-		width :100% ;
-		margin : 50px 100px ;
+  width :100% ;
+  margin : 50px 100px ;
+  width:200px;
+  height : 100px ;
 	}
 		
