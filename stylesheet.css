@@ -14,6 +14,9 @@ body {
 li {
   list-style: none;
 }
+a {
+display: block;
+}
 
 head {
 text-align: center ;
