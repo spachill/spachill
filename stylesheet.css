@@ -5,17 +5,15 @@ h1, h2, h3, h4, h5, h6, p,
 form, input, div {
   margin: 0;
   padding: 0;
+	* {box-sizing : border-box ;}
 }
 
 body {
   font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
 }
 
-li {
+li　, a {
   list-style: none;
-}
-a {
-display: block;
 }
 
 head {
